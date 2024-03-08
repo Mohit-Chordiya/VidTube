@@ -1,4 +1,3 @@
-// export const API_KEY = "AIzaSyDLt1LtROu_Ta4zYprjrcZv7O6gxP9llcU";
 export const API_KEY = "AIzaSyCayBh1uvTgKaNVoMXaVeVa4xxfxF4v8DA";
 
 export const value_converter = (value) => {
